@@ -7,10 +7,10 @@ echo "Building, breaking, and securing networks & systems."
 ## 🛠️  Tech Stack & Tooling
 ## 📈 GitHub Stats
 ## 📌 Current Focus & Learning
-- 🔭 ** Working on:** Systems automation & networking scripting
+- 🔭 **Working on:** Systems automation & networking scripting
 - 📚 **Studying:** Network defense, containerization, and cloud infrastructure
 - 🗨️  **Ask me about:** Shell scripting, Linux internals, troubleshooting
-- ⚡ ** Fun fact:** "There's no place like `128.0.0.1`." 
+- ⚡ **Fun fact:** "There's no place like `128.0.0.1`." 
 <!-- Quote_Start -->
 " Stay hungry, stay foolish." - Steve Jobs
 <!-- Quote_End -->
